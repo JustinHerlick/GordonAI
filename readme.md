@@ -1,4 +1,4 @@
-#Gordon ¯\_(ツ)_/¯
+#Gordon ¯\\_(ツ)_/¯
 
 Gordon simply plans your weekly meals for you, guaranteed to change your kitchen nightmares into kitchen nirvana.
 
